@@ -634,7 +634,7 @@ GameObject:
   - component: {fileID: 1529944937}
   - component: {fileID: 1529944940}
   m_Layer: 5
-  m_Name: 'MoveButton '
+  m_Name: 'HaksoolButton '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -945,7 +945,7 @@ GameObject:
   - component: {fileID: 2094050842}
   - component: {fileID: 2094050845}
   m_Layer: 5
-  m_Name: 'Button '
+  m_Name: 'GwagiButton '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
