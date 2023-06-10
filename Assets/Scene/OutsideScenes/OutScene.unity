@@ -498,8 +498,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1927395351}
-  sensitivity: 6
-  CursorLock: 1
+  sensitivity: 3
 --- !u!4 &741522995
 Transform:
   m_ObjectHideFlags: 0
