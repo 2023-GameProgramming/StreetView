@@ -4,6 +4,7 @@ using UnityEngine.UI;
 public class ObjectClickHandler : MonoBehaviour
 {
     public Canvas canvas; // 닫을 캔버스
+    public Canvas canvas2; 
     public Button closeButton; // 닫을 버튼
 
     void Start()
@@ -38,6 +39,6 @@ public class ObjectClickHandler : MonoBehaviour
     void CloseCanvas()
     {
         // 캔버스를 닫음
-        canvas.gameObject.SetActive(false);
+        canvas2.gameObject.SetActive(false);
     }
 }
